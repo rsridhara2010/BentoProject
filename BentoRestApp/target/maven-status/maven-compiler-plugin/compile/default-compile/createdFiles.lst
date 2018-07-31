@@ -1,0 +1,6 @@
+com\test\model\WikiPediaRequest.class
+com\test\app\ApplicationInitializer.class
+com\test\util\App.class
+com\test\app\WikiPediaController.class
+com\test\model\BaseResponse.class
+com\test\app\ApplicationConfiguration.class
