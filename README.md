@@ -4,7 +4,7 @@ Getting to philosophy
 DB User: Cloud MongoDB
 Hosting: on AWS, url to be used bento-env.6bjpqmfzqy.us-west-2.elasticbeanstalk.com
 Path to take = /rest/wiki/find
-Params used = depth => indicates how many hops to go deep to find Getting to philosophy
+Params used = depth => indicates how many hops to go deep to find Philosophy
 
 HTTP POST
 http://bento-env.6bjpqmfzqy.us-west-2.elasticbeanstalk.com/rest/wiki/find?depth=100
